@@ -1,0 +1,35 @@
+/*************IDS CAN ONLY BE USED ON ONE TAG***************/
+/*************CLASSES CAN BE USED MULTIPLE TIMES************/
+
+body {
+  background-color: #006eb7;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-width: 5px;
+  width: 5%;
+  border-color: grey;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+/******************CLASS SELECTORS***********************/
+
+.Main-Pic {
+  background-color: red;
+}
+
+#Heading {
+  color: red;
+}
+
+img:hover {
+  background-color: blue;
+}
